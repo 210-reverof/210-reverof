@@ -32,4 +32,4 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=210-reverof&show_icons=true&theme=vue)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=210-reverof&show_icons=true&theme=vue) -->
